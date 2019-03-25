@@ -24,8 +24,10 @@ In addition, they suggest:
 If the user is unable to control the flickering, blinking and moving (this includes stopping these effects from starting), then these effects should not be used.“
 [https://www.w3.org/TR/2008/REC-WCAG20-20081211/#seizure]
 
-To attain blinking effect you can use CSS3 animation property defined with @keyframes rule. An acceptable effect can be obtained by changing the shadow using CSS. 
-Igor Shegolev [https://codepen.io/igorsheg/pen/MBpwGw] has a very interesting ideea. My code is a adaptation for using with bootstrap 3 labels in Typesetter CMS.
-[https://www.typesettercms.com/]. Just add css style at the end of the text on page and the add class pulse to label. CSS animations work with IE11, Microsoft Edge 17+, Chrome 49+, Firefox 61+, Safari 11.1+, iOS Safari 10.3+, Chrome for Android 67+ and Samsung Internet 4+. Demo here: 
+To attain blinking effect you can use CSS3 animation property defined with @keyframes rule. An acceptable effect can be obtained by changing the shadow using CSS. Igor Shegolev [https://codepen.io/igorsheg/pen/MBpwGw] has a very interesting ideea. 
+
+My code is a adaptation for using with bootstrap 3 labels in Typesetter CMS. [https://www.typesettercms.com/]. 
+
+Just add css style at the end of the text on page and the add class pulse to label. CSS animations work with IE11, Microsoft Edge 17+, Chrome 49+, Firefox 61+, Safari 11.1+, iOS Safari 10.3+, Chrome for Android 67+ and Samsung Internet 4+. Demo here: 
 
 https://florincatalin.000webhostapp.com/demo_pulse_shadow_label
