@@ -11,6 +11,7 @@ In connection with photosensitive epilepsy, as part of good practice, it recomme
     Flash below the general flash and red flash thresholds
     
 In addition, they suggest:
+
     Reducing contrast for any flashing content
     Avoiding fully saturated reds for any flashing content
     Reducing the number of flashes even if they do not violate thresholds
